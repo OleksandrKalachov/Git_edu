@@ -3,6 +3,7 @@ I'm a Porsche with no brakes
 I'm invincible
 Yeah, I win every single game
 I'm so powerful
+<<<<<<< HEAD
 I don't need batteries to play
 
 I'm so confident
@@ -12,3 +13,6 @@ Unstoppable today
 Unstoppable today
 I'm unstoppable today
 ----------------------------------
+=======
+I don't need batteries to play
+>>>>>>> 043e60a744148c6bf2fce0e31e9250ef05e8eba2
